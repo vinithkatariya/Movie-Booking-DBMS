@@ -1,3 +1,7 @@
+
+### Movies Booking DBMS
+
+
 ## React App with Auth0 Integration
 
 Very simple React app with authentication using Auth0.
